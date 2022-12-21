@@ -1,2 +1,2 @@
 # Tailwind-Project
-Use Public Folder For Your Edit And Making Of Pages And For Accessing The Tailwind CSS. Node Modules Are Given Temporary After Somtime It Will Be Delete From This Repo
+Use Public Folder For Your Edit And Making Of Pages And For Accessing The Tailwind CSS. Node Modules Are Given Temporary After Somtime It Will Be Delete From This Repository. The Whole Projects And Components Will Be Used From Tailwind CSS And Additional JS Will BE Added Later To Make The Components Responsive Plus Functional And Easy To Use You Can Also Push Your Code In This Repo If I Think It Is Better It Will Be Added In This Repo With You As A Collaborator And A Happy Contributors.
